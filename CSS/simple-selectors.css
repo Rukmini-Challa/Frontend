@@ -1,12 +1,12 @@
 h1{
-    border: 1px dashed red;
+    border: 1px solid black;
     color: maroon;
     font-size: 40px;
 }
 
 p{
-    border: 1px dashed red;
-    color: maroon;
+    border: 1px solid black;
+    color: blue;
     font-size: 40px;
 }
 
@@ -45,19 +45,20 @@ p{
 .btn{
     border: 1px solid black;
     border-radius: 10px;
-    padding: 10px 22px;
+    padding: 10px ;
     width: 20%;
-    font-size: 16px;
+    font-size: 10px;
+    color:aqua
 }
 
-.btn-1{
+#btn-1{
     background-color: greenyellow;
 }
 
-.btn-2{
+#btn-2{
     background-color: yellow;
 }
 
-.btn-3{
+#btn-3{
     background-color: red;
 }

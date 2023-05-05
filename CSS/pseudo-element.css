@@ -7,12 +7,12 @@ selector::pseudo-element{} */
 }
 
 .para-1::first-letter{
-    color: green;
+    color: red;
 }
 
 .para-1::after{
     content: "hey there this is present inside after psuedo-element";
-    color: red;
+    color:purple;
 }
 
 .para-1::before{
